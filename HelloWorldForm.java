@@ -1,4 +1,4 @@
-/* A simple Struts2 "Hello World" Application */
+/* A simple Struts1.x "Hello World" Application */
 /* Put this JavaFile under the form package */
 
 
